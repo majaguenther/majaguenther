@@ -1,4 +1,5 @@
-## Hi there 👋
+On July 3rd I uploaded 600+ pictures to my [blog gallery](https://majas.blog/gallery). Due to laziness I used my telegram bot automation, resulting in 700+ commits.  
+That's about everything I have to say for now. :shipit:
 
 <!--
 **majaguenther/majaguenther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
